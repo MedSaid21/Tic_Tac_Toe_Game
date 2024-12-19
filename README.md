@@ -13,5 +13,4 @@ Technologies Used:
 
 C#
 .NET Windows Forms
-Uploading Recording 2024-11-01 110631.mp4…
 
