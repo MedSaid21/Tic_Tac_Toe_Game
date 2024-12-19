@@ -15,6 +15,5 @@ C#
 .NET Windows Forms
 
 
-
-Uploading Screen Recording 2024-10-25 221600.mp4…
+https://github.com/user-attachments/assets/7fcb243b-3d86-4841-aeb9-fd0de4377848
 
